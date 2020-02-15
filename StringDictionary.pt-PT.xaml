@@ -10,23 +10,23 @@
 	<system:String x:Key="Current.Language">pt-PT</system:String>
 
 	<!--  Settings, General  -->
-	<system:String x:Key="Settings">Settings</system:String>
-	<system:String x:Key="Settings.Header">Settings</system:String>
-	<system:String x:Key="Settings.General">General</system:String>
-	<system:String x:Key="Settings.Language">Language</system:String>
-	<system:String x:Key="Settings.Update">Update</system:String>
+	<system:String x:Key="Settings">Configurações</system:String>
+	<system:String x:Key="Settings.Header">Configurações</system:String>
+	<system:String x:Key="Settings.General">Geral</system:String>
+	<system:String x:Key="Settings.Language">Língua</system:String>
+	<system:String x:Key="Settings.Update">Atualizar</system:String>
 	<system:String x:Key="Settings.Facebook">Facebook</system:String>
-	<system:String x:Key="Settings.Facebook.Like">Like</system:String>
-	<system:String x:Key="Settings.TemporaryPath">Temporary</system:String>
-	<system:String x:Key="Settings.Default">Default</system:String>
-	<system:String x:Key="Settings.License">License</system:String>
+	<system:String x:Key="Settings.Facebook.Like">Gostar</system:String>
+	<system:String x:Key="Settings.TemporaryPath">Temporário</system:String>
+	<system:String x:Key="Settings.Default">Predefinido</system:String>
+	<system:String x:Key="Settings.License">Licença</system:String>
 	<system:String x:Key="Settings.Proxy">Proxy</system:String>
 
-	<system:String x:Key="Settings.General.RunAtBoot">Run a program automatically when Windows starts</system:String>
-	<system:String x:Key="Settings.General.RunAtConnect">Run File Explorer when a drive has connected</system:String>
+	<system:String x:Key="Settings.General.RunAtBoot">Execute um programa automaticamente quando o Windows iniciar</system:String>
+	<system:String x:Key="Settings.General.RunAtConnect">Execute o File Explorer quando uma unidade estiver conectada</system:String>
 
-	<system:String x:Key="Notice">Notice</system:String>
-	<system:String x:Key="AddDrive">Add</system:String>
+	<system:String x:Key="Notice">Aviso</system:String>
+	<system:String x:Key="AddDrive">Adicionar</system:String>
 	<system:String x:Key="AddDrive.Header">New Drive</system:String>
 	<system:String x:Key="AddDrive.Storage">Storage</system:String>
 
